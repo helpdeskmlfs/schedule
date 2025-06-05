@@ -1,1 +1,38 @@
-# schedule
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NOT AVAILABLE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            min-height: 100vh;
+            margin: 0;
+            background: #202124;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .container {
+            background: #292b2f;
+            padding: 40px 60px;
+            border-radius: 15px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+        }
+        .not-available {
+            font-size: 2.5rem;
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-align: center;
+            color: #ff5252;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="not-available">NOT AVAILABLE</div>
+    </div>
+</body>
+</html>
